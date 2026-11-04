@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "title": "bag",
+        "amount": 4000.0,
+        "category": "Shopping",
+        "date": "2026-10-16"
+    },
+    {
+        "id": 2,
+        "title": "dinner",
+        "amount": 2000.0,
+        "category": "Food",
+        "date": "2026-10-16"
+    },
+    {
+        "id": 3,
+        "title": "lunch",
+        "amount": 900.0,
+        "category": "Food",
+        "date": "2026-10-15"
+    },
+    {
+        "id": 4,
+        "title": "bill",
+        "amount": 1000.0,
+        "category": "Bills",
+        "date": "2026-10-16"
+    },
+    {
+        "id": 5,
+        "title": "dress",
+        "amount": 2000.0,
+        "category": "Shopping",
+        "date": "2026-09-04"
+    },
+    {
+        "id": 6,
+        "title": "dinner",
+        "amount": 5000.0,
+        "category": "Bills",
+        "date": "2026-09-05"
+    },
+    {
+        "id": 7,
+        "title": "movie",
+        "amount": 300.0,
+        "category": "Entertainment",
+        "date": "2026-09-06"
+    },
+    {
+        "id": 8,
+        "title": "lunch",
+        "amount": 5000.0,
+        "category": "Food",
+        "date": "2026-08-22"
+    },
+    {
+        "id": 9,
+        "title": "clothes",
+        "amount": 3000.0,
+        "category": "Shopping",
+        "date": "2026-08-12"
+    },
+    {
+        "id": 10,
+        "title": "lunch",
+        "amount": 400.0,
+        "category": "Food",
+        "date": "2026-10-23"
+    },
+    {
+        "id": 11,
+        "title": "bags",
+        "amount": 700.0,
+        "category": "Shopping",
+        "date": "2026-11-04"
+    },
+    {
+        "id": 12,
+        "title": "electric bill",
+        "amount": 1000.0,
+        "category": "Bills",
+        "date": "2026-11-04"
+    },
+    {
+        "id": 13,
+        "title": "books",
+        "amount": 700.0,
+        "category": "Education",
+        "date": "2026-11-04"
+    },
+    {
+        "id": 15,
+        "title": "innomatics",
+        "amount": 5000.0,
+        "category": "Education",
+        "date": "2026-11-04"
+    }
+]
